@@ -1,9 +1,0 @@
-cd SHELLCOMMANDS
-touch shell_internal_commands.txt
-gedit shell_internal_commands.txt
-touch system_program_commands.txt
-gedit system_program_commands.txt
-cat shell_internal_commands.txt
-gedit shell_internal_commands.txt
-touch commands.txt
-gedit commands.txt

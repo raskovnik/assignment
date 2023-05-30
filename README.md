@@ -1,2 +1,2 @@
 # assignment
-repo for ToC assignments
+repo for assignments
