@@ -1,0 +1,11 @@
+cd: Change the current working directory.
+echo: Display a line of text or the value of a variable.
+pwd: Print the current working directory.
+alias: Create an alias for a command or a series of commands.
+history: Display the command history.
+export: Set environment variables.
+exit: Terminate the current shell session.
+source: Execute commands from a file in the current shell session.
+set: Set or unset shell options and positional parameters.
+type: Display information about a command's type (alias, built-in, or external program).
+

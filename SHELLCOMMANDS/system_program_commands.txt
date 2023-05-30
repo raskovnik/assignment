@@ -1,0 +1,10 @@
+ls: List files and directories.
+cp: Copy files and directories.
+rm: Remove files and directories.
+mkdir: Create a new directory.
+chmod: Change the permissions of a file or directory.
+grep: Search for specific patterns or regular expressions in files.
+ps: Display information about running processes.
+cat: Concatenate and display the contents of files.
+ssh: Connect to a remote server using Secure Shell (SSH) protocol.
+wget: Download files from the internet
